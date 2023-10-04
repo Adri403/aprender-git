@@ -1,1 +1,2 @@
 olá primeiro doc pra git
+alter 2 staging
